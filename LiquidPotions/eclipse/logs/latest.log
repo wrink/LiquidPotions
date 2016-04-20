@@ -1,0 +1,29 @@
+[15:25:26] [main/INFO]: Setting user: Player953
+[15:25:29] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:25:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:liquidpotions
+[15:25:39] [Sound Library Loader/INFO]: Sound engine started
+[15:25:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:25:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:25:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:liquidpotions
+[15:25:42] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:25:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:25:43] [Sound Library Loader/INFO]: Sound engine started
+[16:32:52] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:32:52] [Server thread/INFO]: Generating keypair
+[16:32:53] [Server thread/INFO]: Preparing start region for level 0
+[16:32:54] [Server thread/INFO]: Preparing spawn area: 44%
+[16:32:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:32:56] [Server thread/INFO]: Player953[local:E:b20a90ae] logged in with entity id 330 at (733.2348831563545, 80.51199989318832, -4116.6598007762495)
+[16:32:56] [Server thread/INFO]: Player953 joined the game
+[16:33:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11649ms behind, skipping 232 tick(s)
+[16:33:11] [Server thread/INFO]: Player953 has just earned the achievement [Taking Inventory]
+[16:33:11] [Client thread/INFO]: [CHAT] Player953 has just earned the achievement [Taking Inventory]
+[16:33:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 194 ms
+[16:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3783ms behind, skipping 75 tick(s)
+[16:33:19] [Client thread/INFO]: Warning: Clientside chunk ticking took 157 ms
+[16:33:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[16:38:57] [Client thread/INFO]: Stopping!
+[16:38:58] [Client Shutdown Thread/INFO]: Stopping server
+[16:38:58] [Client Shutdown Thread/INFO]: Saving players
+[16:38:58] [Client Shutdown Thread/INFO]: Saving worlds
+[16:38:58] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
